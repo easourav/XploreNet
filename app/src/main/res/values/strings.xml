@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RS Net</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="billing_guideline"><![CDATA[Billing & guideline]]></string>
+    <string name="help_line_selfcare"><![CDATA[Help line & selfcare]]></string>
+    <string name="location_url">https://www.google.com/maps/place/RS+Net/@23.7227762,90.4287718,17z/data=!4m12!1m6!3m5!1s0x3755b849d76273b9:0x497b9094b9276c67!2sRS+Net!8m2!3d23.7232665!4d90.4311814!3m4!1s0x3755b849d76273b9:0x497b9094b9276c67!8m2!3d23.7232665!4d90.4311814</string>
+</resources>

@@ -1,0 +1,61 @@
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true" />
+    <domain-config cleartextTrafficPermitted="true">
+
+        <domain includeSubdomains="true">www.youtube.com</domain>
+        <domain includeSubdomains="true">10.236.236.236/</domain>
+        <domain includeSubdomains="true">www.facebook.com</domain>
+        <domain includeSubdomains="true">crazyhd.com</domain>
+        <domain includeSubdomains="true">172.16.50.4/</domain>
+        <domain includeSubdomains="true">freedownloadbd.com</domain>
+        <domain includeSubdomains="true">dhakatech.com/</domain>
+        <domain includeSubdomains="true">dhakatech.isperp.org/ispcare</domain>
+        <domain includeSubdomains="true">movie.sambd.net/</domain>
+        <domain includeSubdomains="true">onesky.softwaresolutioncompany.com/</domain>
+        <domain includeSubdomains="true">shop.dhakatech.com/</domain>
+        <domain includeSubdomains="true">www</domain>
+
+        <domain includeSubdomains="true">smartbox.digital/jwtv1/index.php</domain>
+        <domain includeSubdomains="true">metromedia.digital</domain>
+        <domain includeSubdomains="true">smartbox.digital</domain>
+        <domain includeSubdomains="true">www.prothomalo.com</domain>
+        <domain includeSubdomains="true">www.dailyjanakantha.com</domain>
+        <domain includeSubdomains="true">radio.net.bd</domain>
+        <domain includeSubdomains="true">api.myip.com</domain>
+        <domain includeSubdomains="true">www.smartstudio.digital</domain>
+        <domain includeSubdomains="true">smartbox.digital/jwtv1/</domain>
+        <domain includeSubdomains="true">www.kalerkantho.com</domain>
+        <domain includeSubdomains="true">www.bd-pratidin.com</domain>
+        <domain includeSubdomains="true">www.ittefaq.com.bd</domain>
+        <domain includeSubdomains="true">www.dailydinkal.net/2019/10/29/index.php</domain>
+        <domain includeSubdomains="true">www.thedailystar.net</domain>
+        <domain includeSubdomains="true">www.newstoday.com.bd</domain>
+        <domain includeSubdomains="true">www.bhorerkagoj.com</domain>
+        <domain includeSubdomains="true">www.dailyinqilab.com</domain>
+        <domain includeSubdomains="true">dailyvorerpata.com</domain>
+        <domain includeSubdomains="true">www.jugantor.com</domain>
+        <domain includeSubdomains="true">www.doinikastha.com</domain>
+        <domain includeSubdomains="true">www.dailysangram.com</domain>
+        <domain includeSubdomains="true">www.utorrent.com</domain>
+        <domain includeSubdomains="true">www.torrentbd.com</domain>
+        <domain includeSubdomains="true">www.crazyhd.com</domain>
+        <domain includeSubdomains="true">www.espncricinfo.com</domain>
+        <domain includeSubdomains="true">www.cricbuzz.com</domain>
+        <domain includeSubdomains="true">www.bioscopelive.com/en/</domain>
+        <domain includeSubdomains="true">www.jagobd.com</domain>
+        <domain includeSubdomains="true">tvs.jagobd.com</domain>
+        <domain includeSubdomains="true">www.9game.com</domain>
+        <domain includeSubdomains="true">softwaresolutioncompany.com</domain>
+        <domain includeSubdomains="true">bdixtv.live</domain>
+        <domain includeSubdomains="true">tv.bdixsports.com</domain>
+        <domain includeSubdomains="true">linkup.universalitgroup.com</domain>
+        <domain includeSubdomains="true">rangdhanu.live</domain>
+        <domain includeSubdomains="true">www.radio-hitz.com</domain>
+        <domain includeSubdomains="true">onlineradiobox.com</domain>
+        <domain includeSubdomains="true">www.livetvframe.com</domain>
+        <domain includeSubdomains="true">rsnetbd.com/</domain>
+        <domain includeSubdomains="true">www.facebook.com/Link-UP-Communication-288883801717300/</domain>
+        <domain includeSubdomains="true">www.smartflix.digital:8096/web/index.html#!/home.html</domain>
+
+        </domain-config>
+</network-security-config>
